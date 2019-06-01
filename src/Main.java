@@ -13,6 +13,7 @@ public class Main {
         model = scanner.nextLine();
         System.out.println("Podaj rok produkcji:");
         year = scanner.nextLine();
+
         System.out.println(model + " " + year);
     }
 }
